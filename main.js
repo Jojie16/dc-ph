@@ -35,6 +35,8 @@ document.querySelector('.play-button').addEventListener('click', function() {
     // window.open(videoUrl, '_blank');
     iframe.src = videoUrl;
     modal.style.display = 'block';
+    navbar.style.display = 'none';
+    
 });
 
 const menuBtn = document.getElementById('hamburger');
