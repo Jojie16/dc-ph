@@ -3,6 +3,7 @@ const playButtons = document.querySelectorAll('.play-button');
 const modal = document.getElementById('videoModal');
 const closeModal = document.getElementById('closeModal');
 const iframe = document.getElementById('videoFrame');
+const navbar = document.getElementById('navbar');
 
 // Open modal for each movie
 playButtons.forEach(button => {
@@ -11,17 +12,20 @@ playButtons.forEach(button => {
         const videoUrl = movieElement.getAttribute('data-video-url');
         iframe.src = videoUrl;
         modal.style.display = 'block';
+        navbar.style.display = 'none';
     });
 });
 // Close modal
 closeModal.addEventListener('click', function() {
     modal.style.display = 'none';
+    navbar.style.display = 'flex';
     iframe.src = '';
 });
 // Close modal when clicking outside the modal content
 window.addEventListener('click', function(event) {
     if (event.target === modal) {
         modal.style.display = 'none';
+        navbar.style.display = 'flex';
         iframe.src = ''; 
     }
 });
