@@ -10,7 +10,6 @@
 body{
     background: rgb(2,0,36);
     background: linear-gradient(183deg, rgba(2,0,36,1) 0%, rgba(3,67,115,1) 44%, rgba(0,212,255,1) 100%);
-    /* background-color: red; */
 }
 
 nav{
