@@ -8,9 +8,8 @@
 }
 
 body{
-    /* background: rgb(2,0,36); */
-    /* background: linear-gradient(183deg, rgba(2,0,36,1) 0%, rgba(3,67,115,1) 44%, rgba(0,212,255,1) 100%); */
-    background-color: red;
+    background: rgb(2,0,36);
+    background: linear-gradient(183deg, rgba(2,0,36,1) 0%, rgba(3,67,115,1) 44%, rgba(0,212,255,1) 100%);
 }
 
 nav{
@@ -151,7 +150,7 @@ nav{
     font-size: .8rem;
 }
 
-.badge-dub-unreleased {
+.badgeDubUnreleased {
     position: absolute;
     top: 10px;
     right: 10px;
@@ -168,7 +167,7 @@ nav{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    flex: 1;                       
+    flex: 1;
 }
 
 .movie-title {
@@ -194,7 +193,7 @@ nav{
     max-width: 300px;
     margin: .5rem;
     border-radius: 5px;
-    box-shadow: 1px 4px 5px rgb(0,0,0,0,5);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
     background-color: #257dc0;
     position: relative;
     overflow: hidden;

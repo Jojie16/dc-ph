@@ -1,0 +1,173 @@
+[
+    
+    {
+        "id": 17,
+        "titleNumber": "Movie 17",
+        "title": "Private Eye sa Malayong Dagat",
+        "url": "https://drive.google.com/file/d/1K970NQw9QmxNx7McT3cq5eUh62zatOmK/preview",
+        "image": "assets/movie17.jpg",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on September 14 and 15, 2024 (I Heart Movies). Presented by GMA Network. Recorded and encoded by Fried Tinapa."
+    },
+
+    {
+        "id": 16,
+        "titleNumber": "Movie 16",
+        "title": "Ang Ikalabing-Isang Striker",
+        "url": "https://drive.google.com/file/d/1DLPXWM1g_TstAUVnPY2x3mxuZiK0afCg/preview",
+        "image": "assets/movie16.png",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on August 22 and 23, 2024 (I Heart Movies). Presented by GMA Network. Recorded and encoded by Fried Tinapa."
+    },
+
+    {
+        "id": 15,
+        "titleNumber": "Movie 15",
+        "title": "Isang Kapat ng Katahimikan",
+        "url": "https://drive.google.com/file/d/1FOoNOU_55oO5dTxCF8NhFjfl43J15WgR/preview",
+        "image": "assets/movie15.png",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on August 8 and 9, 2024 (I Heart Movies). Presented by GMA Network. Recorded and encoded by Fried Tinapa."
+    },
+
+    {
+        "id": 14,
+        "titleNumber": "Movie 14",
+        "title": "Ang Nawawalang Bapor sa Kalangitan",
+        "url": "",
+        "image": "assets/movie14.jpg",
+        "badgeDubUnreleased": "NOT AVAILABLE",
+        "description": "⚠️Nilampasan muna dahil inaayos pa ang background music and effects."
+    },
+
+    {
+        "id": 13,
+        "titleNumber": "Movie 13",
+        "title": "Ang Mandaragit ng Uwak",
+        "url": "https://drive.google.com/file/d/1nKIFS9QHOpDmQu2TT1PujqwDKZYF2J-J/preview",
+        "image": "assets/movie13.jpg",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on July 25 and 26, 2024 (I Heart Movies). Presented by GMA Network. Recorded and encoded by Fried Tinapa."
+    },
+
+    {
+        "id": 12,
+        "titleNumber": "Movie 12",
+        "title": "Sagad na Musika ng Takot",
+        "url": "https://drive.google.com/file/d/1asAx9jNIKek8PeQIc1Gd2KBWoDgcK8v7/preview",
+        "image": "assets/movie12.jpg",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on July 18 and 19, 2024 (I Heart Movies). Presented by GMA Network. Recorded and encoded by Fried Tinapa."
+    },
+
+    {
+        "id": 11,
+        "titleNumber": "Movie 11",
+        "title": "Bandila ng mga Pirata sa Malalim na Asul",
+        "url": "",
+        "image": "assets/movie11.jpg",
+        "badgeDubUnreleased": "NOT AVAILABLE",
+        "description": "⚠️Nilampasan muna dahil inaayos pa ang background music and effects."
+    },
+
+    {
+        "id": 10,
+        "titleNumber": "Movie 10",
+        "title": "Dalamhati ng mga Private Eye",
+        "url": "https://drive.google.com/file/d/1Rpb3XE_ntt6TcS84L-YIFsISFxxQ9TZg/preview",
+        "image": "assets/movie10.jpg",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on July 5 and 6, 2024 (I Heart Movies). Presented by GMA Network. Recorded and encoded by Fried Tinapa."
+    },
+
+    {
+        "id": 9,
+        "titleNumber": "Movie 9",
+        "title": "Estratehiya sa Ibabaw ng Kailaliman",
+        "url": "https://drive.google.com/file/d/1Nt0EiuYUq8sqr_hR9X39pAnnQdIV25Wj/preview",
+        "image": "assets/movie9.jpg",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on June 27 and 28, 2024 (I Heart Movies). Presented by GMA Network. Recorded and encoded by Fried Tinapa."
+    },
+
+    {
+        "id": 8,
+        "titleNumber": "Movie 8",
+        "title": "Salamangkero ng Pilak na Langit",
+        "url": "https://drive.google.com/file/d/1VuNBA5XJqeQ9Gii3-t6GU25Em5s5gvre/preview",
+        "image": "assets/movie8.png",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on July 11 and 12, 2024 (I Heart Movies). Presented by GMA Network. Recorded and encoded by Fried Tinapa."
+    },
+
+    {
+        "id": 7,
+        "titleNumber": "Movie 7",
+        "title": "Sangandaan sa Sinaunang Kabisera",
+        "url": "https://drive.google.com/file/d/1B3Jy4RsfXMLBX2KPJtdju1bdJ3Ylmc3J/preview",
+        "image": "assets/movie7.jpg",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on June 14 and 15, 2024 (I Heart Movies). Presented by GMA Network. Recorded and encoded by Fried Tinapa."
+    },
+
+    {
+        "id": 6,
+        "titleNumber": "Movie 6",
+        "title": "Ang Hiwaga sa Baker Street",
+        "url": "https://drive.google.com/file/d/19x1edaAtgEJ_Ls3ViKCyXHypCgVyMV38/preview",
+        "image": "assets/movie6.jpg",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on June 7 and 8, 2024 (I Heart Movies). Presented by GMA Network. Recorded and encoded by Fried Tinapa."
+    },
+
+    {
+        "id": 5,
+        "titleNumber": "Movie 5",
+        "title": "Nalalabing Oras Patungong Langit",
+        "url": "https://drive.google.com/file/d/1os8UvIJVJagXIpzoMaarZAizO6p-KIgA/preview",
+        "image": "assets/movie5.jpg",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on May 17 and 18, 2024 (I Heart Movies). Presented by GMA Network. Recorded and encoded by Fried Tinapa."
+    },
+
+    {
+        "id": 4,
+        "titleNumber": "Movie 4",
+        "title": "Nahuli sa Kanyang Mga Mata",
+        "url": "https://drive.google.com/file/d/1i4K5tuHtAcagyIl35kSGGjw7ZMMiEZoF/preview",
+        "image": "assets/movie4.jpg",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on May 10 and 11, 2024 (I Heart Movies). Presented by GMA Network. Recorded and encoded by Fried Tinapa."
+    },
+
+    {
+        "id": 3,
+        "titleNumber": "Movie 3",
+        "title": "Ang Huling Pantas ng Kasalukuyang Siglo",
+        "url": "https://drive.google.com/file/d/1Iii1PAtNd6kqDjofsaiUZ3nOCacpTvT1/preview",
+        "image": "assets/movie3.jpg",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on April 12 and 13, 2024 (I Heart Movies). Presented by GMA Network. Recorded and encoded by Fried Tinapa."
+    },
+
+    {
+        "id": 2,
+        "titleNumber": "Movie 2",
+        "title": "Ang Ika-Labing Apat na Puntirya",
+        "url": "https://drive.google.com/file/d/1OsV6w-rgHTKxE_RHETfbgt4-GDP7Wup5/preview",
+        "image": "assets/movie2.jpg",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on April 1 and 2, 2024 (I Heart Movies). Presented by GMA Network. Recorded and encoded by Fried Tinapa."
+    },
+
+    {
+        "id": 1,
+        "titleNumber": "Movie 1",
+        "title": "Inorasang Bomba sa Gusali",
+        "url": "https://drive.google.com/file/d/1DoL_ov1-mqIzNn8aic7iA9H36Iw9YJUh/preview",
+        "image": "assets/movie1.jpg",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on September 5, 6, 12, and 13, 2015. Presented by GMA-7."
+    }
+
+]
