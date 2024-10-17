@@ -1,5 +1,24 @@
 [
-    
+    {
+        "id": 19,
+        "titleNumber": "Movie 19",
+        "title": "Ang mga Sunflower ng Impiyerno",
+        "url": "",
+        "image": "assets/movie19.png",
+        "badgeDubUnreleased": "NOT AVAILABLE",
+        "description": "⚠️Nilampasan muna dahil inaayos pa ang background music and effects."
+    },
+
+    {
+        "id": 18,
+        "titleNumber": "Movie 18",
+        "title": "Dimensional na Sniper",
+        "url": "https://drive.google.com/file/d/1N6AJ40RHHcFH1zx2R2SjGBE5-0J8alQA/preview",
+        "image": "assets/movie18.webp",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on September 19 and 20, 2024 (I Heart Movies). Presented by GMA Network. Recorded and encoded by Fried Tinapa."
+    },
+
     {
         "id": 17,
         "titleNumber": "Movie 17",
