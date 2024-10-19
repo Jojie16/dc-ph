@@ -1,5 +1,15 @@
 [
     {
+        "id": 20,
+        "titleNumber": "Movie 20",
+        "title": "Pinakamalagim na Bangungot",
+        "url": "https://drive.google.com/file/d/1y3de5VacRFkTZf0RnEu8wHRBID3uA8qJ/preview",
+        "image": "assets/movie20.jpg",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on October 10 and 11, 2024 (I Heart Movies). Presented by GMA Network. Recorded and encoded by Fried Tinapa."
+    },
+
+    {
         "id": 19,
         "titleNumber": "Movie 19",
         "title": "Ang mga Sunflower ng Impiyerno",
@@ -187,6 +197,16 @@
         "image": "assets/movie1.jpg",
         "badge": "TAGALOG",
         "description": "Released in the Philippines on September 5, 6, 12, and 13, 2015. Presented by GMA-7."
+    },
+
+    {
+        "id": 0,
+        "titleNumber": "Lupin Crossover",
+        "title": "Lupin III vs Detective Conan - The Movie",
+        "url": "https://drive.google.com/file/d/1YWdJ1EAEG87Y3xAmzHKYnC5JkJpcC_kA/preview",
+        "image": "assets/movie0.webp",
+        "badge": "TAGALOG",
+        "description": "Released in the Philippines on May 23, 2023. Presented by GMA-7. Presented by GMA Network. Recorded and Encoded by Fried Tinapa."
     }
 
 ]
